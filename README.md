@@ -1,2 +1,3 @@
-# aicte-internship
+Internship project
 Prediction Of Disease outbreak
+
